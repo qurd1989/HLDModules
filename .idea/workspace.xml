@@ -37,6 +37,7 @@
     &quot;Application.Client.executor&quot;: &quot;Run&quot;,
     &quot;Application.Client2.executor&quot;: &quot;Debug&quot;,
     &quot;Application.Client3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IteratorNext.executor&quot;: &quot;Run&quot;,
     &quot;Application.SynchronisedCalculate.executor&quot;: &quot;Run&quot;,
     &quot;Application.multiThread.Client.executor&quot;: &quot;Profiler#1&quot;,
     &quot;Application.staticPackage.Client.executor&quot;: &quot;Run&quot;,
@@ -70,7 +71,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.IteratorNext">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generics.Client" />
       <module name="HLDModules" />
@@ -84,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.Client2" />
+    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.Client3" />
       <module name="HLDModules" />
       <extension name="coverage">
         <pattern>
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.Client3" />
+    <configuration name="IteratorNext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.IteratorNext" />
       <module name="HLDModules" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threads.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IteratorNext" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.SynchronisedCalculate" />
         <item itemvalue="Application.multiThread.Client" />
         <item itemvalue="Application.Client3" />
-        <item itemvalue="Application.Client2" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +178,8 @@
       <workItem from="1740927311455" duration="585000" />
       <workItem from="1740931523743" duration="590000" />
       <workItem from="1740941636743" duration="3761000" />
-      <workItem from="1741006065435" duration="2663000" />
+      <workItem from="1741006065435" duration="11451000" />
+      <workItem from="1741144260990" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="Inshallah">
       <option name="closed" value="true" />
