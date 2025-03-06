@@ -2,10 +2,10 @@
 <module version="4">
   <component name="AdditionalModuleElements">
     <content url="file://$MODULE_DIR$" dumb="true">
-      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/java/org" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/java/org/example" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main/resources/lld" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/source" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/source/lld" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/source/org" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/source/org/example" isTestSource="true" />
     </content>
   </component>
 </module>

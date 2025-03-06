@@ -179,7 +179,8 @@
       <workItem from="1740931523743" duration="590000" />
       <workItem from="1740941636743" duration="3761000" />
       <workItem from="1741006065435" duration="11451000" />
-      <workItem from="1741144260990" duration="595000" />
+      <workItem from="1741144260990" duration="7921000" />
+      <workItem from="1741229485236" duration="1061000" />
     </task>
     <task id="LOCAL-00001" summary="Inshallah">
       <option name="closed" value="true" />
@@ -285,7 +286,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/resources/lld/threads/Client2.java</url>
+          <url>file://$PROJECT_DIR$/src/main/source/lld/threads/Client2.java</url>
           <line>10</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
