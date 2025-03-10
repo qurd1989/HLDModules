@@ -73,6 +73,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="hld1.DesignPattern.singleResponsibilityPrinciple.exchange" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -190,7 +193,7 @@
       <workItem from="1741267732382" duration="2846000" />
       <workItem from="1741295237102" duration="293000" />
       <workItem from="1741353536440" duration="9087000" />
-      <workItem from="1741541154288" duration="2523000" />
+      <workItem from="1741541154288" duration="7889000" />
     </task>
     <task id="LOCAL-00001" summary="Inshallah">
       <option name="closed" value="true" />
